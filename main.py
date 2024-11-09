@@ -4,7 +4,6 @@ from post_generator import generate_post
 from preprocess import process_post
 import json
 import datetime
-import os
 
 
 length_options = ["Short", "Medium", "Long"]
